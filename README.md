@@ -24,7 +24,7 @@ Calculadora web desarrollada con HTML, CSS y JavaScript. Este proyecto permite r
 
 Aquí puedes agregar una captura del proyecto:
 
-![Vista previa de la calculadora](img/captura-calculadora.png)
+![Vista previa de la calculadora](img/captura-calculadora.png.png)
 
 ## Estructura del proyecto
 ```text
